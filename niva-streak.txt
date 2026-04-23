@@ -1,0 +1,1 @@
+Apr 23 ✅ Day 1 — Android Studio installed, project created, Hello Niva running on emulator, VISION.md committed
