@@ -2,3 +2,4 @@ Apr 23 ✅ Day 1 — Android Studio installed, project created, Hello Niva runni
 Apr 24 ✅ Day 2 — Niva deployed to real phone, USB debugging set up, edit→run→see loop under 45s
 Apr 25 ✅ Day 3 — Compose tutorial done, meal card prototype built in sandbox project
 Apr 26 ✅ Day 4 — Built 3 meal card variants from scratch. Locked in Row/Column/Box, weight, alignment, Modifier order.
+Apr 28 ✅ Day 5 — State + hoisting locked in. Counter, hoisted counter, favoritable meal list with cross-card counter.
